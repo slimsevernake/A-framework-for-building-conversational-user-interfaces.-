@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "bottender": "latest",
+    "messaging-api-line": "^0.7.12"
+  },
+  "devDependencies": {
+    "nodemon": "^1.11.0"
+  },
+  "scripts": {
+    "dev": "nodemon index.js",
+    "start": "node index.js"
+  }
+}
